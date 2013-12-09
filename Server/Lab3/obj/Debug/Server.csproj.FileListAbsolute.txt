@@ -1,0 +1,4 @@
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\bin\Server.dll
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\bin\Server.pdb
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\obj\Debug\Server.dll
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\obj\Debug\Server.pdb

@@ -1,0 +1,18 @@
+c:\users\наталия\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.exe.config
+c:\users\наталия\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\наталия\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\наталия\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Form1.resources
+c:\users\наталия\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\users\наталия\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+c:\users\наталия\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.exe
+c:\users\наталия\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\Наталия\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\suleinv\Desktop\Lab3\Client\Client\bin\Debug\Client.exe.config
+C:\Users\suleinv\Desktop\Lab3\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\suleinv\Desktop\Lab3\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\suleinv\Desktop\Lab3\Client\Client\bin\Debug\Client.exe
+C:\Users\suleinv\Desktop\Lab3\Client\Client\bin\Debug\Client.pdb
+C:\Users\suleinv\Desktop\Lab3\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\suleinv\Desktop\Lab3\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\suleinv\Desktop\Lab3\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\suleinv\Desktop\Lab3\Client\Client\obj\x86\Debug\Client.MainForm.resources

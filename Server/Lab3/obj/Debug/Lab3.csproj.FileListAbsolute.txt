@@ -1,0 +1,11 @@
+c:\users\наталия\documents\visual studio 2013\Projects\Lab3\Lab3\bin\Lab3.dll.config
+c:\users\наталия\documents\visual studio 2013\Projects\Lab3\Lab3\bin\Lab3.dll
+c:\users\наталия\documents\visual studio 2013\Projects\Lab3\Lab3\bin\Lab3.pdb
+c:\users\наталия\documents\visual studio 2013\Projects\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+c:\users\наталия\documents\visual studio 2013\Projects\Lab3\Lab3\obj\Debug\Lab3.dll
+c:\users\наталия\documents\visual studio 2013\Projects\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\bin\Lab3.dll
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\bin\Lab3.pdb
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.dll
+C:\Users\suleinv\Desktop\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
